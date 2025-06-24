@@ -55,8 +55,7 @@ This repository provides a complete workflow for collecting, storing, and visual
 ## Wiring the DHT22 Sensor
 Connect the DHT22 sensor to the Raspberry Pi GPIO as shown below:
 
-![DHT22 Wiring Diagram](https://www.researchgate.net/profile/Amna-Eleyan/publication/335740857/figure/fig3/AS:877336706686977@1586184779842/Wiring-diagram-for-connecting-the-DHT22-sensor-to-the-RPi_W640.jpg)
-
+![DHT22 Wiring Diagram](![image](https://github.com/user-attachments/assets/cf31266b-5940-451f-a66b-2dd2d437da52)
 - **VCC** (DHT22) → **5V** (Pin 2 or 4 on Pi)
 - **GND** (DHT22) → **GND** (Pin 6 on Pi)
 - **Data** (DHT22) → **GPIO4** (Pin 7 on Pi)
