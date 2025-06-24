@@ -155,7 +155,4 @@ graph TD;
 - **Never commit real database credentials or sensitive information to public repositories.**
 - Use environment variables or a secrets manager for production deployments.
 
----
 
-## License
-This project is licensed under the MIT License. 
